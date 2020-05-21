@@ -1,0 +1,7 @@
+body{
+    padding-top: 56px;
+}
+.wrapper{
+    min-height: 100%;
+    position: relative;
+}
